@@ -1,7 +1,7 @@
 # Created By Md. Minhajur Rahman
 
 ## Project Name : `Coders`
-Project Deploy Site For Client site: https://fabulous-narwhal-4cae51.netlify.app/ 
+Project Deploy Site For Client site: https://fabulous-narwhal-4cae51.netlify.app / 
 Project Deploy Site For Server site: https://coders-server.vercel.app
 
 
